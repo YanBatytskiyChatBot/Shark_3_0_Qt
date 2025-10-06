@@ -64,13 +64,13 @@ Shark_3_0Qt/
 
 ## 📦 Иллюстрации
 
-![Логин Mac OS](./Screens/1_login_form_MacOS.png)
-![Логин Linux](./Screens/2_login_form_Linux.png)
-![Регистрация](./Screens/3_registration.png)
-![Логи](./Screens/4_logs.png)
-![Список чатов](./Screens/5_chat_list.png)
-![Список контактов](./Screens/6_user_list.png)
-![Профиль пользователя](./Screens/7_user_profile.png)
+![Логин Mac OS](Screens/1_login_form_MacOS.png)
+![Логин Linux](Screens/2_login_form_Linux.png)
+![Регистрация](Screens/3_registration.png)
+![Логи](Screens/4_logs.png)
+![Список чатов](Screens/5_chat_list.png)
+![Список контактов](Screens/6_user_list.png)
+![Профиль пользователя](Screens/7_user_profile.png)
 
 ---
 

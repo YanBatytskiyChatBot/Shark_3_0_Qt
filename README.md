@@ -68,9 +68,9 @@ Shark_3_0Qt/
 ![Логин Linux](./Screens/2_login_form_Linux.png)
 ![Регистрация](./Screens/3_registration.png)
 ![Логи](./Screens/4_logs.png)
-![Список чатов](./Screens/5_chal_list.png)
+![Список чатов](./Screens/5_chat_list.png)
 ![Список контактов](./Screens/6_user_list.png)
-![Профиль пользователя](./Screens/)
+![Профиль пользователя](./Screens/7_user_profile.png)
 
 ---
 

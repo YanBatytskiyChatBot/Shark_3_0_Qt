@@ -66,6 +66,7 @@ Shark_3_0Qt/
 ## 📦 Иллюстрации
 
 ![Логин Mac OS](Screens/1_login_form_MacOS.png)
+![Логин Linux](Screens/2_login_form_Linux.png)
 ![Регистрация](Screens/3_registration.png)
 ![Логи](Screens/4_logs.png)
 ![Список чатов](Screens/5_chat_list.png)
@@ -100,8 +101,8 @@ cmake --build build
 ./dist/macos/server/server
 
 # Для Linux
-./dist/linux/client/Shark_UI
-./dist/linux/server/server
+./dist/linux/client/run_client.sh
+./dist/linux/server/run_server.sh
 
 ```
 ## 📚 Лицензия
